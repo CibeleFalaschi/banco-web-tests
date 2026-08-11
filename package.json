@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/CibeleFalaschi/banco-web-tests#readme",
   "devDependencies": {
-    "cypress": "^14.5.1"
+    "cypress": "^14.5.4"
   }
 }
